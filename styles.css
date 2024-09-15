@@ -18,7 +18,7 @@ body {
     height: 100vh;
 }
 
-.clock-container {
+.container {
     background-color: #f4f4f9;
     padding: 40px 30px;
     border-radius: 10px;
@@ -38,7 +38,7 @@ body {
         padding: 10px;
     }
 
-    .clock-container {
+    .container {
         display: flex;
         align-items: center;
         justify-content: center;
